@@ -1,3 +1,7 @@
+/*
+ * @author Cristiano Santos (cristiano.santos@ufba.br)
+ * @since 2023-06-03
+ */
 package org.discount.coupons;
 
 import java.util.Map;
